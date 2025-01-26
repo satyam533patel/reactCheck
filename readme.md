@@ -1,1 +1,1 @@
-# let's play with react
+# let us play with react
